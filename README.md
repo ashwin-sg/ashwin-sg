@@ -43,7 +43,7 @@
 
 - ✨ Agentic AI Workflows  
 - ☁️ Advanced GCP (Vertex AI, Dataflow)  
-- 🔧 MLOps with Docker & FastAPI  
+- 🔧 LLMOps with Docker & FastAPI  
 
 ---
 

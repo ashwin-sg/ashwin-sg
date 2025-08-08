@@ -1,27 +1,17 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Ashwin SG 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&width=440&lines=Data+Analyst+%7C+ML+Engineer+in+Progress;Passionate+about+Data+%26+AI;Always+learning+and+building..." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="250" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
-🎓 I’m a **Data Analyst** with strong expertise in:
+🎓 I’m a **Seasoned Data Analyst x Data Engineer** with strong expertise in:
 
-- 📊 **Data Analytics & BI**: SQL, Power BI, BigQuery  
+- 📊 **Data Analytics & BI**: SQL, Power BI, Tableau, Domo  
 - 🐍 **Programming**: Python, PySpark  
 - 🤖 **Machine Learning**: Scikit-learn, PyTorch  
 - 🔗 **AI Tools**: Langchain, LLM applications  
-- ☁️ **Cloud**: Google Cloud (BigQuery, Dataflow)  
+- ☁️ **Cloud**: Google Cloud Platform (BigQuery, Vertex AI), AWS (S3, Glue, Redshift, Athena)
 
-⚡ I'm on a journey to transition into a **Data Scientist / AI Engineer** role and build impactful AI applications.
+⚡ I'm on a journey to transition into a **AI Engineer** role and build impactful AI applications.
 
 ---
 
@@ -39,24 +29,13 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwinSG&show_icons=true&theme=radical" width="48%"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSG&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSG&layout=compact&theme=radical" width="48%"/>
-</p>
-
----
-
 ## 🔭 What I’m Currently Working On
 
-- Building LangChain-based LLM tools 🧠
-- Working on end-to-end ML model deployment 🚀
-- Writing blog posts & building side projects for my AI portfolio 📚
+- Building end-to-end automated data piplines in dbt and Airflow
+- Advanced BI dashboards in Power BI and Streamlit
+- Building LangChain-based LLM tools 
+- Working on end-to-end LLM model deployment 
+- Writing blog posts & building side projects for my AI portfolio 
 
 ---
 

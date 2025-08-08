@@ -32,10 +32,8 @@
 ## 🔭 What I’m Currently Working On
 
 - Building end-to-end automated data piplines in dbt and Airflow
-- Advanced BI dashboards in Power BI and Streamlit
+- Advanced dashboards in Power BI and Streamlit powered by AI Chatbot
 - Building LangChain-based LLM tools 
-- Working on end-to-end LLM model deployment 
-- Writing blog posts & building side projects for my AI portfolio 
 
 ---
 

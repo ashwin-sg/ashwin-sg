@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Ashwin SG 👋</h1>
+<h1 align="center">Hi there, I'm Ashwin👋</h1>
 
 ## 👨‍💻 About Me
 

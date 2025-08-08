@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there, I'm Ashwin SKG 👋</h1>
+<h1 align="center">Hi there, I'm Ashwin SG 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&width=440&lines=Data+Analyst+%7C+ML+Engineer+in+Progress;Passionate+about+Data+%26+AI;Always+learning+and+building..." alt="Typing SVG" />

@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m a **Seasoned AI Powered Business Intelligence Engineer** with strong expertise in:
+🎓 I’m a **seasoned AI Powered Business Intelligence Engineer** with strong expertise in:
 
 - 📊 **Data Analytics & BI**: SQL, Power BI, Tableau, Domo  
 - 🐍 **Programming**: Python, PySpark   
@@ -30,16 +30,16 @@
 
 ## 🔭 What I’m Currently Working On
 
-- Building end-to-end automated data piplines in dbt and Airflow
-- Advanced dashboards in Power BI and Streamlit powered by AI Chatbot
-- Building LangChain-based LLM tools 
+- Building AI Agents for generating digital marketing performance summary for various markets
+- Advanced dashboards in Power BI and DOMO powered by AI Chatbot for ad-hoc quries by stakeholders
+- Designing and optimizing data architecture for Media and Non-Media data using different platforms like Databricks, Snowflake and AWS 
 
 ---
 
 ## 🌱 I’m Currently Learning
 
 - ✨ Agentic AI Workflows  
-- ☁️ Advanced GCP (Vertex AI, Dataflow)  
+- ☁️ Generative AI  
 - 🔧 LLMOps with Docker & FastAPI  
 
 ---
